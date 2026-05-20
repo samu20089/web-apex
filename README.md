@@ -544,7 +544,7 @@ footer {
     <li><a href="#performance">Performance</a></li>
     <li><a href="#reviews">Recensioni</a></li>
   </ul>
-  <a href="#cta-final" class="nav-cta">Inizia Gratis</a>
+  <a href="mailto:confuso11p@gmail.com?subject=Richiesta%20apertura%20nuovo%20conto%20APEX" class="nav-cta">Inizia Gratis</a>
 </nav>
 
 <!-- HERO -->
@@ -564,7 +564,7 @@ footer {
       APEX combina intelligenza artificiale avanzata e analisi dei mercati in tempo reale per massimizzare i tuoi rendimenti con rischio controllato.
     </p>
     <div class="hero-actions">
-      <a href="#cta-final" class="btn-primary">
+      <a href="mailto:confuso11p@gmail.com?subject=Richiesta%20apertura%20nuovo%20conto%20APEX" class="btn-primary">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
         Apri un conto
       </a>
@@ -859,7 +859,7 @@ footer {
     <h2 class="section-title reveal reveal-delay-1">Fai lavorare<br>i tuoi soldi per <em>te</em></h2>
     <p class="section-sub reveal reveal-delay-2">Apertura del conto gratuita in 3 minuti. Deposito minimo €500. Nessun costo nascosto.</p>
     <div class="cta-actions reveal reveal-delay-3">
-      <a href="#" class="btn-primary" style="font-size:16px;padding:18px 46px;">
+      <a href="mailto:confuso11p@gmail.com?subject=Richiesta%20apertura%20nuovo%20conto%20APEX" class="btn-primary" style="font-size:16px;padding:18px 46px;">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
         Apri il tuo conto gratis
       </a>
